@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="win_will_be_appear_here">Win will be Appear Here</string>
+    <string name="reset">Reset</string>
+    <string name="get_score">Get Score</string>
+</resources>
